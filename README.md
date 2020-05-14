@@ -1,0 +1,3 @@
+# Database-BTree-Index-Performance
+
+The aim of this project was to investigate if B-tree indexes increase database overall performance and when using it turns out to be a feasible solution. The repository contains 2 different SQL scripts: (1) creating different test tables and fill them with random records, and (2) measuring the time of various quaries execution with indexed and non-indexed attributes. Using the scripts enables the user to conduct a series of experiments automatically on Oracle database instance. Results of the particular examplary experiment are discussed in the attached report.
